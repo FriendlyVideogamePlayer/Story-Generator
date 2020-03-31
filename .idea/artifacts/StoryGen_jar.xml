@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StoryGen:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StoryGen_jar</output-path>
+    <root id="archive" name="StoryGen.jar">
+      <element id="module-output" name="StoryGen" />
+    </root>
+  </artifact>
+</component>

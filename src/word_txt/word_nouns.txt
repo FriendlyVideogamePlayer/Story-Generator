@@ -1,0 +1,13 @@
+dog
+table
+cat
+house
+thing
+toy
+rat
+person
+home
+tree
+bush
+park
+shop

@@ -1,0 +1,7 @@
+day
+night
+evening
+morning
+afternoon
+weekend
+weekday

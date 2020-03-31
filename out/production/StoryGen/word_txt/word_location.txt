@@ -1,0 +1,9 @@
+house
+city
+town
+forest
+woods
+park
+village
+cave
+castle

@@ -1,0 +1,6 @@
+rainy
+snowy
+windy
+dark
+cloudy
+cold

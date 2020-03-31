@@ -1,0 +1,12 @@
+boy
+girl
+dog
+alien
+dragon
+dog
+crocodile
+duck
+goose
+cat
+rat
+bird
